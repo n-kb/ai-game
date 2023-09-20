@@ -258,7 +258,7 @@
     },
     {
       "text@en": "I'm a journalist researching TikTube.",
-      "text@de": "Ich bin Journalist*in und mache eine Recherche über TikTube.",
+      "text@de": "Ich bin Journalistin und mache eine Recherche über TikTube.",
       "var_changes": {
         "sources_contacted": 3,
         "teens_spoke" : 1
@@ -267,7 +267,7 @@
         {
           "character": "you",
           "text@en": "I'm a journalist researching TikTube.",
-          "text@de": "Ich bin Journalist*in und mache eine Recherche über TikTube."
+          "text@de": "Ich bin Journalistin und mache eine Recherche über TikTube."
         },
         {
           "character": "you",
